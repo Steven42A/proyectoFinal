@@ -1,0 +1,14 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+} 
+
+body {
+    background-color:  red;
+}
+
+.col-xl-8, .col-sm-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 100.666667%;
+}
